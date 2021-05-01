@@ -1,0 +1,28 @@
+#features-title {
+  padding-top: 100px;
+  color: #fff;
+}
+
+#features-subtitle {
+  color: rgb(221, 221, 221);
+}
+
+#gallery-title {
+  padding-top: 100px;
+  color: #2a8c44;
+}
+
+#gallery-subtitle {
+  color: rgb(221, 221, 221);
+}
+
+#contact-logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#contact-logo {
+  margin: 0;
+  padding-top: 100px;
+}
